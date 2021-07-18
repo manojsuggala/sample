@@ -12,6 +12,8 @@ with SHAPEAT. <br>I got to have hands on experience on:
 
 or fellow SHAPEAT on:
 
-9 <li><a href="https://in.linkedin.com/company/shapeal">LinkedIn</a> <li><a href="https://www.instagram.com/shape.al/?hl=en">Instagram</a> <li>< 11
-
-href="https://www.youtube.com/channel/UCTUVOL TeuDX0cbmISPdA" YouTu be</a> <li><a href="https://github.com/shapeal">GitHub</a>
+9 <li><a href="https://in.linkedin.com/company/shapeal">LinkedIn</a> 
+  <li><a href="https://www.instagram.com/shape.al/?hl=en">Instagram</a> 
+  <li> <a 
+href="https://www.youtube.com/channel/UCTUVOL TeuDX0cbmISPdA" YouTu be</a>
+ <li><a href="https://github.com/shapeal">GitHub</a>
